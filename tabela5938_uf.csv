@@ -1,0 +1,541 @@
+﻿nivel;codigo;uf;ano;variavel;valor;unidade
+UF;11;Rondônia;2002;Produto Interno Bruto a preços correntes;7467630;Mil Reais
+UF;11;Rondônia;2003;Produto Interno Bruto a preços correntes;9425010;Mil Reais
+UF;11;Rondônia;2004;Produto Interno Bruto a preços correntes;11004641;Mil Reais
+UF;11;Rondônia;2005;Produto Interno Bruto a preços correntes;12511821;Mil Reais
+UF;11;Rondônia;2006;Produto Interno Bruto a preços correntes;13054713;Mil Reais
+UF;11;Rondônia;2007;Produto Interno Bruto a preços correntes;14438376;Mil Reais
+UF;11;Rondônia;2008;Produto Interno Bruto a preços correntes;17285542;Mil Reais
+UF;11;Rondônia;2009;Produto Interno Bruto a preços correntes;19725010;Mil Reais
+UF;11;Rondônia;2010;Produto Interno Bruto a preços correntes;23907887;Mil Reais
+UF;11;Rondônia;2011;Produto Interno Bruto a preços correntes;27574714;Mil Reais
+UF;11;Rondônia;2012;Produto Interno Bruto a preços correntes;30112720;Mil Reais
+UF;11;Rondônia;2013;Produto Interno Bruto a preços correntes;31121413;Mil Reais
+UF;11;Rondônia;2014;Produto Interno Bruto a preços correntes;34030982;Mil Reais
+UF;11;Rondônia;2015;Produto Interno Bruto a preços correntes;36563333;Mil Reais
+UF;11;Rondônia;2016;Produto Interno Bruto a preços correntes;39460359;Mil Reais
+UF;11;Rondônia;2017;Produto Interno Bruto a preços correntes;43516147;Mil Reais
+UF;11;Rondônia;2018;Produto Interno Bruto a preços correntes;44913978;Mil Reais
+UF;11;Rondônia;2019;Produto Interno Bruto a preços correntes;47091336;Mil Reais
+UF;11;Rondônia;2020;Produto Interno Bruto a preços correntes;51598741;Mil Reais
+UF;11;Rondônia;2021;Produto Interno Bruto a preços correntes;58170096;Mil Reais
+UF;12;Acre;2002;Produto Interno Bruto a preços correntes;2971301;Mil Reais
+UF;12;Acre;2003;Produto Interno Bruto a preços correntes;3377234;Mil Reais
+UF;12;Acre;2004;Produto Interno Bruto a preços correntes;3784003;Mil Reais
+UF;12;Acre;2005;Produto Interno Bruto a preços correntes;4300581;Mil Reais
+UF;12;Acre;2006;Produto Interno Bruto a preços correntes;4661807;Mil Reais
+UF;12;Acre;2007;Produto Interno Bruto a preços correntes;5458172;Mil Reais
+UF;12;Acre;2008;Produto Interno Bruto a preços correntes;6410255;Mil Reais
+UF;12;Acre;2009;Produto Interno Bruto a preços correntes;7407821;Mil Reais
+UF;12;Acre;2010;Produto Interno Bruto a preços correntes;8342356;Mil Reais
+UF;12;Acre;2011;Produto Interno Bruto a preços correntes;8949434;Mil Reais
+UF;12;Acre;2012;Produto Interno Bruto a preços correntes;10137925;Mil Reais
+UF;12;Acre;2013;Produto Interno Bruto a preços correntes;11473930;Mil Reais
+UF;12;Acre;2014;Produto Interno Bruto a preços correntes;13458698;Mil Reais
+UF;12;Acre;2015;Produto Interno Bruto a preços correntes;13622802;Mil Reais
+UF;12;Acre;2016;Produto Interno Bruto a preços correntes;13754240;Mil Reais
+UF;12;Acre;2017;Produto Interno Bruto a preços correntes;14272941;Mil Reais
+UF;12;Acre;2018;Produto Interno Bruto a preços correntes;15331123;Mil Reais
+UF;12;Acre;2019;Produto Interno Bruto a preços correntes;15630017;Mil Reais
+UF;12;Acre;2020;Produto Interno Bruto a preços correntes;16476371;Mil Reais
+UF;12;Acre;2021;Produto Interno Bruto a preços correntes;21374440;Mil Reais
+UF;13;Amazonas;2002;Produto Interno Bruto a preços correntes;22093338;Mil Reais
+UF;13;Amazonas;2003;Produto Interno Bruto a preços correntes;25862134;Mil Reais
+UF;13;Amazonas;2004;Produto Interno Bruto a preços correntes;31090696;Mil Reais
+UF;13;Amazonas;2005;Produto Interno Bruto a preços correntes;33980877;Mil Reais
+UF;13;Amazonas;2006;Produto Interno Bruto a preços correntes;39933213;Mil Reais
+UF;13;Amazonas;2007;Produto Interno Bruto a preços correntes;43479773;Mil Reais
+UF;13;Amazonas;2008;Produto Interno Bruto a preços correntes;48115265;Mil Reais
+UF;13;Amazonas;2009;Produto Interno Bruto a preços correntes;50559840;Mil Reais
+UF;13;Amazonas;2010;Produto Interno Bruto a preços correntes;60877123;Mil Reais
+UF;13;Amazonas;2011;Produto Interno Bruto a preços correntes;70734401;Mil Reais
+UF;13;Amazonas;2012;Produto Interno Bruto a preços correntes;72242701;Mil Reais
+UF;13;Amazonas;2013;Produto Interno Bruto a preços correntes;83051233;Mil Reais
+UF;13;Amazonas;2014;Produto Interno Bruto a preços correntes;86668644;Mil Reais
+UF;13;Amazonas;2015;Produto Interno Bruto a preços correntes;86568184;Mil Reais
+UF;13;Amazonas;2016;Produto Interno Bruto a preços correntes;89039782;Mil Reais
+UF;13;Amazonas;2017;Produto Interno Bruto a preços correntes;93240191;Mil Reais
+UF;13;Amazonas;2018;Produto Interno Bruto a preços correntes;100109235;Mil Reais
+UF;13;Amazonas;2019;Produto Interno Bruto a preços correntes;108181091;Mil Reais
+UF;13;Amazonas;2020;Produto Interno Bruto a preços correntes;116019139;Mil Reais
+UF;13;Amazonas;2021;Produto Interno Bruto a preços correntes;131531038;Mil Reais
+UF;14;Roraima;2002;Produto Interno Bruto a preços correntes;2392033;Mil Reais
+UF;14;Roraima;2003;Produto Interno Bruto a preços correntes;2594081;Mil Reais
+UF;14;Roraima;2004;Produto Interno Bruto a preços correntes;2822757;Mil Reais
+UF;14;Roraima;2005;Produto Interno Bruto a preços correntes;3193430;Mil Reais
+UF;14;Roraima;2006;Produto Interno Bruto a preços correntes;3802452;Mil Reais
+UF;14;Roraima;2007;Produto Interno Bruto a preços correntes;4203302;Mil Reais
+UF;14;Roraima;2008;Produto Interno Bruto a preços correntes;4841862;Mil Reais
+UF;14;Roraima;2009;Produto Interno Bruto a preços correntes;5671975;Mil Reais
+UF;14;Roraima;2010;Produto Interno Bruto a preços correntes;6639150;Mil Reais
+UF;14;Roraima;2011;Produto Interno Bruto a preços correntes;7303719;Mil Reais
+UF;14;Roraima;2012;Produto Interno Bruto a preços correntes;7711467;Mil Reais
+UF;14;Roraima;2013;Produto Interno Bruto a preços correntes;9010725;Mil Reais
+UF;14;Roraima;2014;Produto Interno Bruto a preços correntes;9744122;Mil Reais
+UF;14;Roraima;2015;Produto Interno Bruto a preços correntes;10242905;Mil Reais
+UF;14;Roraima;2016;Produto Interno Bruto a preços correntes;11013237;Mil Reais
+UF;14;Roraima;2017;Produto Interno Bruto a preços correntes;12104709;Mil Reais
+UF;14;Roraima;2018;Produto Interno Bruto a preços correntes;13369988;Mil Reais
+UF;14;Roraima;2019;Produto Interno Bruto a preços correntes;14292227;Mil Reais
+UF;14;Roraima;2020;Produto Interno Bruto a preços correntes;16024276;Mil Reais
+UF;14;Roraima;2021;Produto Interno Bruto a preços correntes;18202579;Mil Reais
+UF;15;Pará;2002;Produto Interno Bruto a preços correntes;26482159;Mil Reais
+UF;15;Pará;2003;Produto Interno Bruto a preços correntes;30270152;Mil Reais
+UF;15;Pará;2004;Produto Interno Bruto a preços correntes;37272726;Mil Reais
+UF;15;Pará;2005;Produto Interno Bruto a preços correntes;40522893;Mil Reais
+UF;15;Pará;2006;Produto Interno Bruto a preços correntes;45983027;Mil Reais
+UF;15;Pará;2007;Produto Interno Bruto a preços correntes;51846876;Mil Reais
+UF;15;Pará;2008;Produto Interno Bruto a preços correntes;60956978;Mil Reais
+UF;15;Pará;2009;Produto Interno Bruto a preços correntes;61665096;Mil Reais
+UF;15;Pará;2010;Produto Interno Bruto a preços correntes;82684518;Mil Reais
+UF;15;Pará;2011;Produto Interno Bruto a preços correntes;98710736;Mil Reais
+UF;15;Pará;2012;Produto Interno Bruto a preços correntes;107080881;Mil Reais
+UF;15;Pará;2013;Produto Interno Bruto a preços correntes;121224847;Mil Reais
+UF;15;Pará;2014;Produto Interno Bruto a preços correntes;124584945;Mil Reais
+UF;15;Pará;2015;Produto Interno Bruto a preços correntes;130899505;Mil Reais
+UF;15;Pará;2016;Produto Interno Bruto a preços correntes;138107514;Mil Reais
+UF;15;Pará;2017;Produto Interno Bruto a preços correntes;155232404;Mil Reais
+UF;15;Pará;2018;Produto Interno Bruto a preços correntes;161349602;Mil Reais
+UF;15;Pará;2019;Produto Interno Bruto a preços correntes;178376984;Mil Reais
+UF;15;Pará;2020;Produto Interno Bruto a preços correntes;215935604;Mil Reais
+UF;15;Pará;2021;Produto Interno Bruto a preços correntes;262904979;Mil Reais
+UF;16;Amapá;2002;Produto Interno Bruto a preços correntes;3173343;Mil Reais
+UF;16;Amapá;2003;Produto Interno Bruto a preços correntes;3413195;Mil Reais
+UF;16;Amapá;2004;Produto Interno Bruto a preços correntes;3824740;Mil Reais
+UF;16;Amapá;2005;Produto Interno Bruto a preços correntes;4306410;Mil Reais
+UF;16;Amapá;2006;Produto Interno Bruto a preços correntes;5280822;Mil Reais
+UF;16;Amapá;2007;Produto Interno Bruto a preços correntes;6012523;Mil Reais
+UF;16;Amapá;2008;Produto Interno Bruto a preços correntes;6950413;Mil Reais
+UF;16;Amapá;2009;Produto Interno Bruto a preços correntes;7490656;Mil Reais
+UF;16;Amapá;2010;Produto Interno Bruto a preços correntes;8237795;Mil Reais
+UF;16;Amapá;2011;Produto Interno Bruto a preços correntes;9409228;Mil Reais
+UF;16;Amapá;2012;Produto Interno Bruto a preços correntes;11130868;Mil Reais
+UF;16;Amapá;2013;Produto Interno Bruto a preços correntes;12763486;Mil Reais
+UF;16;Amapá;2014;Produto Interno Bruto a preços correntes;13400284;Mil Reais
+UF;16;Amapá;2015;Produto Interno Bruto a preços correntes;13861293;Mil Reais
+UF;16;Amapá;2016;Produto Interno Bruto a preços correntes;14342135;Mil Reais
+UF;16;Amapá;2017;Produto Interno Bruto a preços correntes;15481908;Mil Reais
+UF;16;Amapá;2018;Produto Interno Bruto a preços correntes;16795207;Mil Reais
+UF;16;Amapá;2019;Produto Interno Bruto a preços correntes;17496661;Mil Reais
+UF;16;Amapá;2020;Produto Interno Bruto a preços correntes;18469115;Mil Reais
+UF;16;Amapá;2021;Produto Interno Bruto a preços correntes;20099851;Mil Reais
+UF;17;Tocantins;2002;Produto Interno Bruto a preços correntes;5322563;Mil Reais
+UF;17;Tocantins;2003;Produto Interno Bruto a preços correntes;6612339;Mil Reais
+UF;17;Tocantins;2004;Produto Interno Bruto a preços correntes;7251580;Mil Reais
+UF;17;Tocantins;2005;Produto Interno Bruto a preços correntes;7707340;Mil Reais
+UF;17;Tocantins;2006;Produto Interno Bruto a preços correntes;8655613;Mil Reais
+UF;17;Tocantins;2007;Produto Interno Bruto a preços correntes;10192844;Mil Reais
+UF;17;Tocantins;2008;Produto Interno Bruto a preços correntes;12116393;Mil Reais
+UF;17;Tocantins;2009;Produto Interno Bruto a preços correntes;13689804;Mil Reais
+UF;17;Tocantins;2010;Produto Interno Bruto a preços correntes;16404816;Mil Reais
+UF;17;Tocantins;2011;Produto Interno Bruto a preços correntes;18345688;Mil Reais
+UF;17;Tocantins;2012;Produto Interno Bruto a preços correntes;20684430;Mil Reais
+UF;17;Tocantins;2013;Produto Interno Bruto a preços correntes;23796656;Mil Reais
+UF;17;Tocantins;2014;Produto Interno Bruto a preços correntes;26189323;Mil Reais
+UF;17;Tocantins;2015;Produto Interno Bruto a preços correntes;28930291;Mil Reais
+UF;17;Tocantins;2016;Produto Interno Bruto a preços correntes;31584816;Mil Reais
+UF;17;Tocantins;2017;Produto Interno Bruto a preços correntes;34108132;Mil Reais
+UF;17;Tocantins;2018;Produto Interno Bruto a preços correntes;35666183;Mil Reais
+UF;17;Tocantins;2019;Produto Interno Bruto a preços correntes;39355941;Mil Reais
+UF;17;Tocantins;2020;Produto Interno Bruto a preços correntes;43649803;Mil Reais
+UF;17;Tocantins;2021;Produto Interno Bruto a preços correntes;51780764;Mil Reais
+UF;21;Maranhão;2002;Produto Interno Bruto a preços correntes;15924003;Mil Reais
+UF;21;Maranhão;2003;Produto Interno Bruto a preços correntes;19502900;Mil Reais
+UF;21;Maranhão;2004;Produto Interno Bruto a preços correntes;22127132;Mil Reais
+UF;21;Maranhão;2005;Produto Interno Bruto a preços correntes;25104209;Mil Reais
+UF;21;Maranhão;2006;Produto Interno Bruto a preços correntes;29710643;Mil Reais
+UF;21;Maranhão;2007;Produto Interno Bruto a preços correntes;30730866;Mil Reais
+UF;21;Maranhão;2008;Produto Interno Bruto a preços correntes;37932402;Mil Reais
+UF;21;Maranhão;2009;Produto Interno Bruto a preços correntes;40994571;Mil Reais
+UF;21;Maranhão;2010;Produto Interno Bruto a preços correntes;46309633;Mil Reais
+UF;21;Maranhão;2011;Produto Interno Bruto a preços correntes;52143535;Mil Reais
+UF;21;Maranhão;2012;Produto Interno Bruto a preços correntes;60490109;Mil Reais
+UF;21;Maranhão;2013;Produto Interno Bruto a preços correntes;67694845;Mil Reais
+UF;21;Maranhão;2014;Produto Interno Bruto a preços correntes;76842028;Mil Reais
+UF;21;Maranhão;2015;Produto Interno Bruto a preços correntes;78475994;Mil Reais
+UF;21;Maranhão;2016;Produto Interno Bruto a preços correntes;85310038;Mil Reais
+UF;21;Maranhão;2017;Produto Interno Bruto a preços correntes;89542757;Mil Reais
+UF;21;Maranhão;2018;Produto Interno Bruto a preços correntes;98179496;Mil Reais
+UF;21;Maranhão;2019;Produto Interno Bruto a preços correntes;97339938;Mil Reais
+UF;21;Maranhão;2020;Produto Interno Bruto a preços correntes;106915962;Mil Reais
+UF;21;Maranhão;2021;Produto Interno Bruto a preços correntes;124980720;Mil Reais
+UF;22;Piauí;2002;Produto Interno Bruto a preços correntes;7122635;Mil Reais
+UF;22;Piauí;2003;Produto Interno Bruto a preços correntes;8414901;Mil Reais
+UF;22;Piauí;2004;Produto Interno Bruto a preços correntes;9406461;Mil Reais
+UF;22;Piauí;2005;Produto Interno Bruto a preços correntes;10711834;Mil Reais
+UF;22;Piauí;2006;Produto Interno Bruto a preços correntes;13360478;Mil Reais
+UF;22;Piauí;2007;Produto Interno Bruto a preços correntes;13736085;Mil Reais
+UF;22;Piauí;2008;Produto Interno Bruto a preços correntes;16203340;Mil Reais
+UF;22;Piauí;2009;Produto Interno Bruto a preços correntes;18946449;Mil Reais
+UF;22;Piauí;2010;Produto Interno Bruto a preços correntes;22269149;Mil Reais
+UF;22;Piauí;2011;Produto Interno Bruto a preços correntes;25941362;Mil Reais
+UF;22;Piauí;2012;Produto Interno Bruto a preços correntes;28637685;Mil Reais
+UF;22;Piauí;2013;Produto Interno Bruto a preços correntes;31283593;Mil Reais
+UF;22;Piauí;2014;Produto Interno Bruto a preços correntes;37723497;Mil Reais
+UF;22;Piauí;2015;Produto Interno Bruto a preços correntes;39149686;Mil Reais
+UF;22;Piauí;2016;Produto Interno Bruto a preços correntes;41416937;Mil Reais
+UF;22;Piauí;2017;Produto Interno Bruto a preços correntes;45365541;Mil Reais
+UF;22;Piauí;2018;Produto Interno Bruto a preços correntes;50378418;Mil Reais
+UF;22;Piauí;2019;Produto Interno Bruto a preços correntes;52780785;Mil Reais
+UF;22;Piauí;2020;Produto Interno Bruto a preços correntes;56391257;Mil Reais
+UF;22;Piauí;2021;Produto Interno Bruto a preços correntes;64028303;Mil Reais
+UF;23;Ceará;2002;Produto Interno Bruto a preços correntes;28718840;Mil Reais
+UF;23;Ceará;2003;Produto Interno Bruto a preços correntes;32687418;Mil Reais
+UF;23;Ceará;2004;Produto Interno Bruto a preços correntes;36890816;Mil Reais
+UF;23;Ceará;2005;Produto Interno Bruto a preços correntes;41059459;Mil Reais
+UF;23;Ceará;2006;Produto Interno Bruto a preços correntes;46500321;Mil Reais
+UF;23;Ceará;2007;Produto Interno Bruto a preços correntes;50818749;Mil Reais
+UF;23;Ceará;2008;Produto Interno Bruto a preços correntes;60415574;Mil Reais
+UF;23;Ceará;2009;Produto Interno Bruto a preços correntes;67199958;Mil Reais
+UF;23;Ceará;2010;Produto Interno Bruto a preços correntes;79336299;Mil Reais
+UF;23;Ceará;2011;Produto Interno Bruto a preços correntes;89695828;Mil Reais
+UF;23;Ceará;2012;Produto Interno Bruto a preços correntes;96973753;Mil Reais
+UF;23;Ceará;2013;Produto Interno Bruto a preços correntes;109036556;Mil Reais
+UF;23;Ceará;2014;Produto Interno Bruto a preços correntes;126054472;Mil Reais
+UF;23;Ceará;2015;Produto Interno Bruto a preços correntes;130629849;Mil Reais
+UF;23;Ceará;2016;Produto Interno Bruto a preços correntes;138422521;Mil Reais
+UF;23;Ceará;2017;Produto Interno Bruto a preços correntes;147921534;Mil Reais
+UF;23;Ceará;2018;Produto Interno Bruto a preços correntes;155903825;Mil Reais
+UF;23;Ceará;2019;Produto Interno Bruto a preços correntes;163575327;Mil Reais
+UF;23;Ceará;2020;Produto Interno Bruto a preços correntes;166914536;Mil Reais
+UF;23;Ceará;2021;Produto Interno Bruto a preços correntes;194884802;Mil Reais
+UF;24;Rio Grande do Norte;2002;Produto Interno Bruto a preços correntes;13566803;Mil Reais
+UF;24;Rio Grande do Norte;2003;Produto Interno Bruto a preços correntes;14865441;Mil Reais
+UF;24;Rio Grande do Norte;2004;Produto Interno Bruto a preços correntes;17252398;Mil Reais
+UF;24;Rio Grande do Norte;2005;Produto Interno Bruto a preços correntes;19966918;Mil Reais
+UF;24;Rio Grande do Norte;2006;Produto Interno Bruto a preços correntes;22890124;Mil Reais
+UF;24;Rio Grande do Norte;2007;Produto Interno Bruto a preços correntes;26318259;Mil Reais
+UF;24;Rio Grande do Norte;2008;Produto Interno Bruto a preços correntes;28898860;Mil Reais
+UF;24;Rio Grande do Norte;2009;Produto Interno Bruto a preços correntes;30941054;Mil Reais
+UF;24;Rio Grande do Norte;2010;Produto Interno Bruto a preços correntes;36184502;Mil Reais
+UF;24;Rio Grande do Norte;2011;Produto Interno Bruto a preços correntes;40992925;Mil Reais
+UF;24;Rio Grande do Norte;2012;Produto Interno Bruto a preços correntes;46412208;Mil Reais
+UF;24;Rio Grande do Norte;2013;Produto Interno Bruto a preços correntes;51518457;Mil Reais
+UF;24;Rio Grande do Norte;2014;Produto Interno Bruto a preços correntes;54022584;Mil Reais
+UF;24;Rio Grande do Norte;2015;Produto Interno Bruto a preços correntes;57250867;Mil Reais
+UF;24;Rio Grande do Norte;2016;Produto Interno Bruto a preços correntes;59677389;Mil Reais
+UF;24;Rio Grande do Norte;2017;Produto Interno Bruto a preços correntes;64305995;Mil Reais
+UF;24;Rio Grande do Norte;2018;Produto Interno Bruto a preços correntes;66969562;Mil Reais
+UF;24;Rio Grande do Norte;2019;Produto Interno Bruto a preços correntes;71336780;Mil Reais
+UF;24;Rio Grande do Norte;2020;Produto Interno Bruto a preços correntes;71577107;Mil Reais
+UF;24;Rio Grande do Norte;2021;Produto Interno Bruto a preços correntes;80180733;Mil Reais
+UF;25;Paraíba;2002;Produto Interno Bruto a preços correntes;12747021;Mil Reais
+UF;25;Paraíba;2003;Produto Interno Bruto a preços correntes;14737920;Mil Reais
+UF;25;Paraíba;2004;Produto Interno Bruto a preços correntes;15757832;Mil Reais
+UF;25;Paraíba;2005;Produto Interno Bruto a preços correntes;17557226;Mil Reais
+UF;25;Paraíba;2006;Produto Interno Bruto a preços correntes;20838016;Mil Reais
+UF;25;Paraíba;2007;Produto Interno Bruto a preços correntes;22909811;Mil Reais
+UF;25;Paraíba;2008;Produto Interno Bruto a preços correntes;26889573;Mil Reais
+UF;25;Paraíba;2009;Produto Interno Bruto a preços correntes;30230406;Mil Reais
+UF;25;Paraíba;2010;Produto Interno Bruto a preços correntes;33522492;Mil Reais
+UF;25;Paraíba;2011;Produto Interno Bruto a preços correntes;37109137;Mil Reais
+UF;25;Paraíba;2012;Produto Interno Bruto a preços correntes;42488349;Mil Reais
+UF;25;Paraíba;2013;Produto Interno Bruto a preços correntes;46377299;Mil Reais
+UF;25;Paraíba;2014;Produto Interno Bruto a preços correntes;52936483;Mil Reais
+UF;25;Paraíba;2015;Produto Interno Bruto a preços correntes;56141890;Mil Reais
+UF;25;Paraíba;2016;Produto Interno Bruto a preços correntes;59104781;Mil Reais
+UF;25;Paraíba;2017;Produto Interno Bruto a preços correntes;62396776;Mil Reais
+UF;25;Paraíba;2018;Produto Interno Bruto a preços correntes;64373595;Mil Reais
+UF;25;Paraíba;2019;Produto Interno Bruto a preços correntes;67986074;Mil Reais
+UF;25;Paraíba;2020;Produto Interno Bruto a preços correntes;70292034;Mil Reais
+UF;25;Paraíba;2021;Produto Interno Bruto a preços correntes;77470331;Mil Reais
+UF;26;Pernambuco;2002;Produto Interno Bruto a preços correntes;36056032;Mil Reais
+UF;26;Pernambuco;2003;Produto Interno Bruto a preços correntes;38815845;Mil Reais
+UF;26;Pernambuco;2004;Produto Interno Bruto a preços correntes;44982684;Mil Reais
+UF;26;Pernambuco;2005;Produto Interno Bruto a preços correntes;50240325;Mil Reais
+UF;26;Pernambuco;2006;Produto Interno Bruto a preços correntes;55485293;Mil Reais
+UF;26;Pernambuco;2007;Produto Interno Bruto a preços correntes;62459325;Mil Reais
+UF;26;Pernambuco;2008;Produto Interno Bruto a preços correntes;70413939;Mil Reais
+UF;26;Pernambuco;2009;Produto Interno Bruto a preços correntes;79760958;Mil Reais
+UF;26;Pernambuco;2010;Produto Interno Bruto a preços correntes;97189760;Mil Reais
+UF;26;Pernambuco;2011;Produto Interno Bruto a preços correntes;110161559;Mil Reais
+UF;26;Pernambuco;2012;Produto Interno Bruto a preços correntes;127989043;Mil Reais
+UF;26;Pernambuco;2013;Produto Interno Bruto a preços correntes;141150252;Mil Reais
+UF;26;Pernambuco;2014;Produto Interno Bruto a preços correntes;155142648;Mil Reais
+UF;26;Pernambuco;2015;Produto Interno Bruto a preços correntes;156963668;Mil Reais
+UF;26;Pernambuco;2016;Produto Interno Bruto a preços correntes;167345031;Mil Reais
+UF;26;Pernambuco;2017;Produto Interno Bruto a preços correntes;181609501;Mil Reais
+UF;26;Pernambuco;2018;Produto Interno Bruto a preços correntes;186351975;Mil Reais
+UF;26;Pernambuco;2019;Produto Interno Bruto a preços correntes;197853378;Mil Reais
+UF;26;Pernambuco;2020;Produto Interno Bruto a preços correntes;193307317;Mil Reais
+UF;26;Pernambuco;2021;Produto Interno Bruto a preços correntes;220813522;Mil Reais
+UF;27;Alagoas;2002;Produto Interno Bruto a preços correntes;11536853;Mil Reais
+UF;27;Alagoas;2003;Produto Interno Bruto a preços correntes;12624030;Mil Reais
+UF;27;Alagoas;2004;Produto Interno Bruto a preços correntes;14044907;Mil Reais
+UF;27;Alagoas;2005;Produto Interno Bruto a preços correntes;15484521;Mil Reais
+UF;27;Alagoas;2006;Produto Interno Bruto a preços correntes;17395671;Mil Reais
+UF;27;Alagoas;2007;Produto Interno Bruto a preços correntes;19871266;Mil Reais
+UF;27;Alagoas;2008;Produto Interno Bruto a preços correntes;22262295;Mil Reais
+UF;27;Alagoas;2009;Produto Interno Bruto a preços correntes;24182388;Mil Reais
+UF;27;Alagoas;2010;Produto Interno Bruto a preços correntes;27133038;Mil Reais
+UF;27;Alagoas;2011;Produto Interno Bruto a preços correntes;31657321;Mil Reais
+UF;27;Alagoas;2012;Produto Interno Bruto a preços correntes;34650397;Mil Reais
+UF;27;Alagoas;2013;Produto Interno Bruto a preços correntes;37282529;Mil Reais
+UF;27;Alagoas;2014;Produto Interno Bruto a preços correntes;40974994;Mil Reais
+UF;27;Alagoas;2015;Produto Interno Bruto a preços correntes;46367211;Mil Reais
+UF;27;Alagoas;2016;Produto Interno Bruto a preços correntes;49468741;Mil Reais
+UF;27;Alagoas;2017;Produto Interno Bruto a preços correntes;52851067;Mil Reais
+UF;27;Alagoas;2018;Produto Interno Bruto a preços correntes;54413047;Mil Reais
+UF;27;Alagoas;2019;Produto Interno Bruto a preços correntes;58963729;Mil Reais
+UF;27;Alagoas;2020;Produto Interno Bruto a preços correntes;63202349;Mil Reais
+UF;27;Alagoas;2021;Produto Interno Bruto a preços correntes;76265620;Mil Reais
+UF;28;Sergipe;2002;Produto Interno Bruto a preços correntes;10332494;Mil Reais
+UF;28;Sergipe;2003;Produto Interno Bruto a preços correntes;11749574;Mil Reais
+UF;28;Sergipe;2004;Produto Interno Bruto a preços correntes;13336258;Mil Reais
+UF;28;Sergipe;2005;Produto Interno Bruto a preços correntes;14430118;Mil Reais
+UF;28;Sergipe;2006;Produto Interno Bruto a preços correntes;16419798;Mil Reais
+UF;28;Sergipe;2007;Produto Interno Bruto a preços correntes;18218450;Mil Reais
+UF;28;Sergipe;2008;Produto Interno Bruto a preços correntes;21418378;Mil Reais
+UF;28;Sergipe;2009;Produto Interno Bruto a preços correntes;21707243;Mil Reais
+UF;28;Sergipe;2010;Produto Interno Bruto a preços correntes;26404893;Mil Reais
+UF;28;Sergipe;2011;Produto Interno Bruto a preços correntes;29108272;Mil Reais
+UF;28;Sergipe;2012;Produto Interno Bruto a preços correntes;32853181;Mil Reais
+UF;28;Sergipe;2013;Produto Interno Bruto a preços correntes;35335986;Mil Reais
+UF;28;Sergipe;2014;Produto Interno Bruto a preços correntes;37472432;Mil Reais
+UF;28;Sergipe;2015;Produto Interno Bruto a preços correntes;38556530;Mil Reais
+UF;28;Sergipe;2016;Produto Interno Bruto a preços correntes;38877438;Mil Reais
+UF;28;Sergipe;2017;Produto Interno Bruto a preços correntes;40711486;Mil Reais
+UF;28;Sergipe;2018;Produto Interno Bruto a preços correntes;42017981;Mil Reais
+UF;28;Sergipe;2019;Produto Interno Bruto a preços correntes;44689483;Mil Reais
+UF;28;Sergipe;2020;Produto Interno Bruto a preços correntes;45409657;Mil Reais
+UF;28;Sergipe;2021;Produto Interno Bruto a preços correntes;51861397;Mil Reais
+UF;29;Bahia;2002;Produto Interno Bruto a preços correntes;58842976;Mil Reais
+UF;29;Bahia;2003;Produto Interno Bruto a preços correntes;67174227;Mil Reais
+UF;29;Bahia;2004;Produto Interno Bruto a preços correntes;77931725;Mil Reais
+UF;29;Bahia;2005;Produto Interno Bruto a preços correntes;88291883;Mil Reais
+UF;29;Bahia;2006;Produto Interno Bruto a preços correntes;95347802;Mil Reais
+UF;29;Bahia;2007;Produto Interno Bruto a preços correntes;109329528;Mil Reais
+UF;29;Bahia;2008;Produto Interno Bruto a preços correntes;121667455;Mil Reais
+UF;29;Bahia;2009;Produto Interno Bruto a preços correntes;137942481;Mil Reais
+UF;29;Bahia;2010;Produto Interno Bruto a preços correntes;154419547;Mil Reais
+UF;29;Bahia;2011;Produto Interno Bruto a preços correntes;166602817;Mil Reais
+UF;29;Bahia;2012;Produto Interno Bruto a preços correntes;182572530;Mil Reais
+UF;29;Bahia;2013;Produto Interno Bruto a preços correntes;204844274;Mil Reais
+UF;29;Bahia;2014;Produto Interno Bruto a preços correntes;223929966;Mil Reais
+UF;29;Bahia;2015;Produto Interno Bruto a preços correntes;245043690;Mil Reais
+UF;29;Bahia;2016;Produto Interno Bruto a preços correntes;258738970;Mil Reais
+UF;29;Bahia;2017;Produto Interno Bruto a preços correntes;268724090;Mil Reais
+UF;29;Bahia;2018;Produto Interno Bruto a preços correntes;286239541;Mil Reais
+UF;29;Bahia;2019;Produto Interno Bruto a preços correntes;293240504;Mil Reais
+UF;29;Bahia;2020;Produto Interno Bruto a preços correntes;305320813;Mil Reais
+UF;29;Bahia;2021;Produto Interno Bruto a preços correntes;352617852;Mil Reais
+UF;31;Minas Gerais;2002;Produto Interno Bruto a preços correntes;124071066;Mil Reais
+UF;31;Minas Gerais;2003;Produto Interno Bruto a preços correntes;144189094;Mil Reais
+UF;31;Minas Gerais;2004;Produto Interno Bruto a preços correntes;171870934;Mil Reais
+UF;31;Minas Gerais;2005;Produto Interno Bruto a preços correntes;188364436;Mil Reais
+UF;31;Minas Gerais;2006;Produto Interno Bruto a preços correntes;212659547;Mil Reais
+UF;31;Minas Gerais;2007;Produto Interno Bruto a preços correntes;240355239;Mil Reais
+UF;31;Minas Gerais;2008;Produto Interno Bruto a preços correntes;278607619;Mil Reais
+UF;31;Minas Gerais;2009;Produto Interno Bruto a preços correntes;287443848;Mil Reais
+UF;31;Minas Gerais;2010;Produto Interno Bruto a preços correntes;351123418;Mil Reais
+UF;31;Minas Gerais;2011;Produto Interno Bruto a preços correntes;400124687;Mil Reais
+UF;31;Minas Gerais;2012;Produto Interno Bruto a preços correntes;442282830;Mil Reais
+UF;31;Minas Gerais;2013;Produto Interno Bruto a preços correntes;488004903;Mil Reais
+UF;31;Minas Gerais;2014;Produto Interno Bruto a preços correntes;516633984;Mil Reais
+UF;31;Minas Gerais;2015;Produto Interno Bruto a preços correntes;519331213;Mil Reais
+UF;31;Minas Gerais;2016;Produto Interno Bruto a preços correntes;544810468;Mil Reais
+UF;31;Minas Gerais;2017;Produto Interno Bruto a preços correntes;576375545;Mil Reais
+UF;31;Minas Gerais;2018;Produto Interno Bruto a preços correntes;614875820;Mil Reais
+UF;31;Minas Gerais;2019;Produto Interno Bruto a preços correntes;651872684;Mil Reais
+UF;31;Minas Gerais;2020;Produto Interno Bruto a preços correntes;682786116;Mil Reais
+UF;31;Minas Gerais;2021;Produto Interno Bruto a preços correntes;857593214;Mil Reais
+UF;32;Espírito Santo;2002;Produto Interno Bruto a preços correntes;27048997;Mil Reais
+UF;32;Espírito Santo;2003;Produto Interno Bruto a preços correntes;31519106;Mil Reais
+UF;32;Espírito Santo;2004;Produto Interno Bruto a preços correntes;39732638;Mil Reais
+UF;32;Espírito Santo;2005;Produto Interno Bruto a preços correntes;47020588;Mil Reais
+UF;32;Espírito Santo;2006;Produto Interno Bruto a preços correntes;53463868;Mil Reais
+UF;32;Espírito Santo;2007;Produto Interno Bruto a preços correntes;60658395;Mil Reais
+UF;32;Espírito Santo;2008;Produto Interno Bruto a preços correntes;72091158;Mil Reais
+UF;32;Espírito Santo;2009;Produto Interno Bruto a preços correntes;69215361;Mil Reais
+UF;32;Espírito Santo;2010;Produto Interno Bruto a preços correntes;85310285;Mil Reais
+UF;32;Espírito Santo;2011;Produto Interno Bruto a preços correntes;105976222;Mil Reais
+UF;32;Espírito Santo;2012;Produto Interno Bruto a preços correntes;116850581;Mil Reais
+UF;32;Espírito Santo;2013;Produto Interno Bruto a preços correntes;117274347;Mil Reais
+UF;32;Espírito Santo;2014;Produto Interno Bruto a preços correntes;128783781;Mil Reais
+UF;32;Espírito Santo;2015;Produto Interno Bruto a preços correntes;120365980;Mil Reais
+UF;32;Espírito Santo;2016;Produto Interno Bruto a preços correntes;109264423;Mil Reais
+UF;32;Espírito Santo;2017;Produto Interno Bruto a preços correntes;113399937;Mil Reais
+UF;32;Espírito Santo;2018;Produto Interno Bruto a preços correntes;137020055;Mil Reais
+UF;32;Espírito Santo;2019;Produto Interno Bruto a preços correntes;137345595;Mil Reais
+UF;32;Espírito Santo;2020;Produto Interno Bruto a preços correntes;138445922;Mil Reais
+UF;32;Espírito Santo;2021;Produto Interno Bruto a preços correntes;186336505;Mil Reais
+UF;33;Rio de Janeiro;2002;Produto Interno Bruto a preços correntes;184310915;Mil Reais
+UF;33;Rio de Janeiro;2003;Produto Interno Bruto a preços correntes;202640789;Mil Reais
+UF;33;Rio de Janeiro;2004;Produto Interno Bruto a preços correntes;241206738;Mil Reais
+UF;33;Rio de Janeiro;2005;Produto Interno Bruto a preços correntes;269830061;Mil Reais
+UF;33;Rio de Janeiro;2006;Produto Interno Bruto a preços correntes;299738183;Mil Reais
+UF;33;Rio de Janeiro;2007;Produto Interno Bruto a preços correntes;323698286;Mil Reais
+UF;33;Rio de Janeiro;2008;Produto Interno Bruto a preços correntes;378285800;Mil Reais
+UF;33;Rio de Janeiro;2009;Produto Interno Bruto a preços correntes;391650854;Mil Reais
+UF;33;Rio de Janeiro;2010;Produto Interno Bruto a preços correntes;449858101;Mil Reais
+UF;33;Rio de Janeiro;2011;Produto Interno Bruto a preços correntes;512767905;Mil Reais
+UF;33;Rio de Janeiro;2012;Produto Interno Bruto a preços correntes;574884973;Mil Reais
+UF;33;Rio de Janeiro;2013;Produto Interno Bruto a preços correntes;628226069;Mil Reais
+UF;33;Rio de Janeiro;2014;Produto Interno Bruto a preços correntes;671076844;Mil Reais
+UF;33;Rio de Janeiro;2015;Produto Interno Bruto a preços correntes;659138952;Mil Reais
+UF;33;Rio de Janeiro;2016;Produto Interno Bruto a preços correntes;640401206;Mil Reais
+UF;33;Rio de Janeiro;2017;Produto Interno Bruto a preços correntes;671605668;Mil Reais
+UF;33;Rio de Janeiro;2018;Produto Interno Bruto a preços correntes;758859047;Mil Reais
+UF;33;Rio de Janeiro;2019;Produto Interno Bruto a preços correntes;779927917;Mil Reais
+UF;33;Rio de Janeiro;2020;Produto Interno Bruto a preços correntes;753823711;Mil Reais
+UF;33;Rio de Janeiro;2021;Produto Interno Bruto a preços correntes;949300770;Mil Reais
+UF;35;São Paulo;2002;Produto Interno Bruto a preços correntes;518878815;Mil Reais
+UF;35;São Paulo;2003;Produto Interno Bruto a preços correntes;591454032;Mil Reais
+UF;35;São Paulo;2004;Produto Interno Bruto a preços correntes;652955558;Mil Reais
+UF;35;São Paulo;2005;Produto Interno Bruto a preços correntes;743042944;Mil Reais
+UF;35;São Paulo;2006;Produto Interno Bruto a preços correntes;824529299;Mil Reais
+UF;35;São Paulo;2007;Produto Interno Bruto a preços correntes;935653180;Mil Reais
+UF;35;São Paulo;2008;Produto Interno Bruto a preços correntes;1042510168;Mil Reais
+UF;35;São Paulo;2009;Produto Interno Bruto a preços correntes;1127093826;Mil Reais
+UF;35;São Paulo;2010;Produto Interno Bruto a preços correntes;1294695988;Mil Reais
+UF;35;São Paulo;2011;Produto Interno Bruto a preços correntes;1436672709;Mil Reais
+UF;35;São Paulo;2012;Produto Interno Bruto a preços correntes;1559033444;Mil Reais
+UF;35;São Paulo;2013;Produto Interno Bruto a preços correntes;1715238417;Mil Reais
+UF;35;São Paulo;2014;Produto Interno Bruto a preços correntes;1858196055;Mil Reais
+UF;35;São Paulo;2015;Produto Interno Bruto a preços correntes;1939901907;Mil Reais
+UF;35;São Paulo;2016;Produto Interno Bruto a preços correntes;2038757382;Mil Reais
+UF;35;São Paulo;2017;Produto Interno Bruto a preços correntes;2120761635;Mil Reais
+UF;35;São Paulo;2018;Produto Interno Bruto a preços correntes;2210561949;Mil Reais
+UF;35;São Paulo;2019;Produto Interno Bruto a preços correntes;2348338000;Mil Reais
+UF;35;São Paulo;2020;Produto Interno Bruto a preços correntes;2377638980;Mil Reais
+UF;35;São Paulo;2021;Produto Interno Bruto a preços correntes;2719751231;Mil Reais
+UF;41;Paraná;2002;Produto Interno Bruto a preços correntes;88235715;Mil Reais
+UF;41;Paraná;2003;Produto Interno Bruto a preços correntes;110039414;Mil Reais
+UF;41;Paraná;2004;Produto Interno Bruto a preços correntes;123451530;Mil Reais
+UF;41;Paraná;2005;Produto Interno Bruto a preços correntes;127464507;Mil Reais
+UF;41;Paraná;2006;Produto Interno Bruto a preços correntes;137648311;Mil Reais
+UF;41;Paraná;2007;Produto Interno Bruto a preços correntes;165208891;Mil Reais
+UF;41;Paraná;2008;Produto Interno Bruto a preços correntes;185683859;Mil Reais
+UF;41;Paraná;2009;Produto Interno Bruto a preços correntes;196675612;Mil Reais
+UF;41;Paraná;2010;Produto Interno Bruto a preços correntes;225205255;Mil Reais
+UF;41;Paraná;2011;Produto Interno Bruto a preços correntes;257122269;Mil Reais
+UF;41;Paraná;2012;Produto Interno Bruto a preços correntes;285620202;Mil Reais
+UF;41;Paraná;2013;Produto Interno Bruto a preços correntes;333481152;Mil Reais
+UF;41;Paraná;2014;Produto Interno Bruto a preços correntes;348084191;Mil Reais
+UF;41;Paraná;2015;Produto Interno Bruto a preços correntes;376962822;Mil Reais
+UF;41;Paraná;2016;Produto Interno Bruto a preços correntes;401814164;Mil Reais
+UF;41;Paraná;2017;Produto Interno Bruto a preços correntes;421497870;Mil Reais
+UF;41;Paraná;2018;Produto Interno Bruto a preços correntes;440029403;Mil Reais
+UF;41;Paraná;2019;Produto Interno Bruto a preços correntes;466377036;Mil Reais
+UF;41;Paraná;2020;Produto Interno Bruto a preços correntes;487930594;Mil Reais
+UF;41;Paraná;2021;Produto Interno Bruto a preços correntes;549973062;Mil Reais
+UF;42;Santa Catarina;2002;Produto Interno Bruto a preços correntes;54481893;Mil Reais
+UF;42;Santa Catarina;2003;Produto Interno Bruto a preços correntes;64098475;Mil Reais
+UF;42;Santa Catarina;2004;Produto Interno Bruto a preços correntes;73618966;Mil Reais
+UF;42;Santa Catarina;2005;Produto Interno Bruto a preços correntes;81549244;Mil Reais
+UF;42;Santa Catarina;2006;Produto Interno Bruto a preços correntes;91063449;Mil Reais
+UF;42;Santa Catarina;2007;Produto Interno Bruto a preços correntes;103728092;Mil Reais
+UF;42;Santa Catarina;2008;Produto Interno Bruto a preços correntes;121477258;Mil Reais
+UF;42;Santa Catarina;2009;Produto Interno Bruto a preços correntes;129098535;Mil Reais
+UF;42;Santa Catarina;2010;Produto Interno Bruto a preços correntes;153726007;Mil Reais
+UF;42;Santa Catarina;2011;Produto Interno Bruto a preços correntes;174068322;Mil Reais
+UF;42;Santa Catarina;2012;Produto Interno Bruto a preços correntes;191794652;Mil Reais
+UF;42;Santa Catarina;2013;Produto Interno Bruto a preços correntes;214512242;Mil Reais
+UF;42;Santa Catarina;2014;Produto Interno Bruto a preços correntes;242553371;Mil Reais
+UF;42;Santa Catarina;2015;Produto Interno Bruto a preços correntes;249079642;Mil Reais
+UF;42;Santa Catarina;2016;Produto Interno Bruto a preços correntes;256754669;Mil Reais
+UF;42;Santa Catarina;2017;Produto Interno Bruto a preços correntes;277270237;Mil Reais
+UF;42;Santa Catarina;2018;Produto Interno Bruto a preços correntes;298227090;Mil Reais
+UF;42;Santa Catarina;2019;Produto Interno Bruto a preços correntes;323263857;Mil Reais
+UF;42;Santa Catarina;2020;Produto Interno Bruto a preços correntes;349275016;Mil Reais
+UF;42;Santa Catarina;2021;Produto Interno Bruto a preços correntes;428570889;Mil Reais
+UF;43;Rio Grande do Sul;2002;Produto Interno Bruto a preços correntes;98847211;Mil Reais
+UF;43;Rio Grande do Sul;2003;Produto Interno Bruto a preços correntes;119325399;Mil Reais
+UF;43;Rio Grande do Sul;2004;Produto Interno Bruto a preços correntes;131192206;Mil Reais
+UF;43;Rio Grande do Sul;2005;Produto Interno Bruto a preços correntes;136362769;Mil Reais
+UF;43;Rio Grande do Sul;2006;Produto Interno Bruto a preços correntes;147622599;Mil Reais
+UF;43;Rio Grande do Sul;2007;Produto Interno Bruto a preços correntes;168009752;Mil Reais
+UF;43;Rio Grande do Sul;2008;Produto Interno Bruto a preços correntes;190229822;Mil Reais
+UF;43;Rio Grande do Sul;2009;Produto Interno Bruto a preços correntes;204344940;Mil Reais
+UF;43;Rio Grande do Sul;2010;Produto Interno Bruto a preços correntes;241249164;Mil Reais
+UF;43;Rio Grande do Sul;2011;Produto Interno Bruto a preços correntes;265056416;Mil Reais
+UF;43;Rio Grande do Sul;2012;Produto Interno Bruto a preços correntes;287587019;Mil Reais
+UF;43;Rio Grande do Sul;2013;Produto Interno Bruto a preços correntes;332292726;Mil Reais
+UF;43;Rio Grande do Sul;2014;Produto Interno Bruto a preços correntes;357816424;Mil Reais
+UF;43;Rio Grande do Sul;2015;Produto Interno Bruto a preços correntes;381992601;Mil Reais
+UF;43;Rio Grande do Sul;2016;Produto Interno Bruto a preços correntes;408789528;Mil Reais
+UF;43;Rio Grande do Sul;2017;Produto Interno Bruto a preços correntes;423270047;Mil Reais
+UF;43;Rio Grande do Sul;2018;Produto Interno Bruto a preços correntes;457293958;Mil Reais
+UF;43;Rio Grande do Sul;2019;Produto Interno Bruto a preços correntes;482464177;Mil Reais
+UF;43;Rio Grande do Sul;2020;Produto Interno Bruto a preços correntes;470941846;Mil Reais
+UF;43;Rio Grande do Sul;2021;Produto Interno Bruto a preços correntes;581283677;Mil Reais
+UF;50;Mato Grosso do Sul;2002;Produto Interno Bruto a preços correntes;16440424;Mil Reais
+UF;50;Mato Grosso do Sul;2003;Produto Interno Bruto a preços correntes;21846566;Mil Reais
+UF;50;Mato Grosso do Sul;2004;Produto Interno Bruto a preços correntes;23372308;Mil Reais
+UF;50;Mato Grosso do Sul;2005;Produto Interno Bruto a preços correntes;23725258;Mil Reais
+UF;50;Mato Grosso do Sul;2006;Produto Interno Bruto a preços correntes;26667894;Mil Reais
+UF;50;Mato Grosso do Sul;2007;Produto Interno Bruto a preços correntes;30084765;Mil Reais
+UF;50;Mato Grosso do Sul;2008;Produto Interno Bruto a preços correntes;36219263;Mil Reais
+UF;50;Mato Grosso do Sul;2009;Produto Interno Bruto a preços correntes;39517742;Mil Reais
+UF;50;Mato Grosso do Sul;2010;Produto Interno Bruto a preços correntes;47270656;Mil Reais
+UF;50;Mato Grosso do Sul;2011;Produto Interno Bruto a preços correntes;55133162;Mil Reais
+UF;50;Mato Grosso do Sul;2012;Produto Interno Bruto a preços correntes;62013201;Mil Reais
+UF;50;Mato Grosso do Sul;2013;Produto Interno Bruto a preços correntes;69203201;Mil Reais
+UF;50;Mato Grosso do Sul;2014;Produto Interno Bruto a preços correntes;78950133;Mil Reais
+UF;50;Mato Grosso do Sul;2015;Produto Interno Bruto a preços correntes;83082555;Mil Reais
+UF;50;Mato Grosso do Sul;2016;Produto Interno Bruto a preços correntes;91892285;Mil Reais
+UF;50;Mato Grosso do Sul;2017;Produto Interno Bruto a preços correntes;96396434;Mil Reais
+UF;50;Mato Grosso do Sul;2018;Produto Interno Bruto a preços correntes;106969142;Mil Reais
+UF;50;Mato Grosso do Sul;2019;Produto Interno Bruto a preços correntes;106943246;Mil Reais
+UF;50;Mato Grosso do Sul;2020;Produto Interno Bruto a preços correntes;122627726;Mil Reais
+UF;50;Mato Grosso do Sul;2021;Produto Interno Bruto a preços correntes;142203766;Mil Reais
+UF;51;Mato Grosso;2002;Produto Interno Bruto a preços correntes;19190653;Mil Reais
+UF;51;Mato Grosso;2003;Produto Interno Bruto a preços correntes;26697097;Mil Reais
+UF;51;Mato Grosso;2004;Produto Interno Bruto a preços correntes;33388670;Mil Reais
+UF;51;Mato Grosso;2005;Produto Interno Bruto a preços correntes;34257055;Mil Reais
+UF;51;Mato Grosso;2006;Produto Interno Bruto a preços correntes;30700165;Mil Reais
+UF;51;Mato Grosso;2007;Produto Interno Bruto a preços correntes;38027578;Mil Reais
+UF;51;Mato Grosso;2008;Produto Interno Bruto a preços correntes;49202505;Mil Reais
+UF;51;Mato Grosso;2009;Produto Interno Bruto a preços correntes;52693417;Mil Reais
+UF;51;Mato Grosso;2010;Produto Interno Bruto a preços correntes;56600955;Mil Reais
+UF;51;Mato Grosso;2011;Produto Interno Bruto a preços correntes;69153957;Mil Reais
+UF;51;Mato Grosso;2012;Produto Interno Bruto a preços correntes;79665691;Mil Reais
+UF;51;Mato Grosso;2013;Produto Interno Bruto a preços correntes;89212919;Mil Reais
+UF;51;Mato Grosso;2014;Produto Interno Bruto a preços correntes;101234520;Mil Reais
+UF;51;Mato Grosso;2015;Produto Interno Bruto a preços correntes;107418319;Mil Reais
+UF;51;Mato Grosso;2016;Produto Interno Bruto a preços correntes;123880296;Mil Reais
+UF;51;Mato Grosso;2017;Produto Interno Bruto a preços correntes;126845898;Mil Reais
+UF;51;Mato Grosso;2018;Produto Interno Bruto a preços correntes;137442853;Mil Reais
+UF;51;Mato Grosso;2019;Produto Interno Bruto a preços correntes;142122028;Mil Reais
+UF;51;Mato Grosso;2020;Produto Interno Bruto a preços correntes;178649564;Mil Reais
+UF;51;Mato Grosso;2021;Produto Interno Bruto a preços correntes;233390203;Mil Reais
+UF;52;Goiás;2002;Produto Interno Bruto a preços correntes;38629365;Mil Reais
+UF;52;Goiás;2003;Produto Interno Bruto a preços correntes;45557889;Mil Reais
+UF;52;Goiás;2004;Produto Interno Bruto a preços correntes;51103815;Mil Reais
+UF;52;Goiás;2005;Produto Interno Bruto a preços correntes;53865113;Mil Reais
+UF;52;Goiás;2006;Produto Interno Bruto a preços correntes;61375403;Mil Reais
+UF;52;Goiás;2007;Produto Interno Bruto a preços correntes;71410568;Mil Reais
+UF;52;Goiás;2008;Produto Interno Bruto a preços correntes;82417564;Mil Reais
+UF;52;Goiás;2009;Produto Interno Bruto a preços correntes;92865743;Mil Reais
+UF;52;Goiás;2010;Produto Interno Bruto a preços correntes;106770109;Mil Reais
+UF;52;Goiás;2011;Produto Interno Bruto a preços correntes;121296721;Mil Reais
+UF;52;Goiás;2012;Produto Interno Bruto a preços correntes;138757825;Mil Reais
+UF;52;Goiás;2013;Produto Interno Bruto a preços correntes;151300175;Mil Reais
+UF;52;Goiás;2014;Produto Interno Bruto a preços correntes;165015318;Mil Reais
+UF;52;Goiás;2015;Produto Interno Bruto a preços correntes;173632450;Mil Reais
+UF;52;Goiás;2016;Produto Interno Bruto a preços correntes;181759604;Mil Reais
+UF;52;Goiás;2017;Produto Interno Bruto a preços correntes;191948301;Mil Reais
+UF;52;Goiás;2018;Produto Interno Bruto a preços correntes;195681724;Mil Reais
+UF;52;Goiás;2019;Produto Interno Bruto a preços correntes;208672492;Mil Reais
+UF;52;Goiás;2020;Produto Interno Bruto a preços correntes;224126112;Mil Reais
+UF;52;Goiás;2021;Produto Interno Bruto a preços correntes;269627874;Mil Reais
+UF;53;Distrito Federal;2002;Produto Interno Bruto a preços correntes;53902200;Mil Reais
+UF;53;Distrito Federal;2003;Produto Interno Bruto a preços correntes;58456124;Mil Reais
+UF;53;Distrito Federal;2004;Produto Interno Bruto a preços correntes;67076505;Mil Reais
+UF;53;Distrito Federal;2005;Produto Interno Bruto a preços correntes;75732681;Mil Reais
+UF;53;Distrito Federal;2006;Produto Interno Bruto a preços correntes;84661406;Mil Reais
+UF;53;Distrito Federal;2007;Produto Interno Bruto a preços correntes;93404001;Mil Reais
+UF;53;Distrito Federal;2008;Produto Interno Bruto a preços correntes;110299557;Mil Reais
+UF;53;Distrito Federal;2009;Produto Interno Bruto a preços correntes;124323753;Mil Reais
+UF;53;Distrito Federal;2010;Produto Interno Bruto a preços correntes;144174102;Mil Reais
+UF;53;Distrito Federal;2011;Produto Interno Bruto a preços correntes;154568954;Mil Reais
+UF;53;Distrito Federal;2012;Produto Interno Bruto a preços correntes;164101336;Mil Reais
+UF;53;Distrito Federal;2013;Produto Interno Bruto a preços correntes;175906726;Mil Reais
+UF;53;Distrito Federal;2014;Produto Interno Bruto a preços correntes;197432059;Mil Reais
+UF;53;Distrito Federal;2015;Produto Interno Bruto a preços correntes;215612863;Mil Reais
+UF;53;Distrito Federal;2016;Produto Interno Bruto a preços correntes;235540045;Mil Reais
+UF;53;Distrito Federal;2017;Produto Interno Bruto a preços correntes;244722249;Mil Reais
+UF;53;Distrito Federal;2018;Produto Interno Bruto a preços correntes;254817205;Mil Reais
+UF;53;Distrito Federal;2019;Produto Interno Bruto a preços correntes;273613711;Mil Reais
+UF;53;Distrito Federal;2020;Produto Interno Bruto a preços correntes;265847334;Mil Reais
+UF;53;Distrito Federal;2021;Produto Interno Bruto a preços correntes;286943782;Mil Reais
