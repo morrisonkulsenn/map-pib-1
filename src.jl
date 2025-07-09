@@ -77,7 +77,7 @@ df_2020 = filter(:ano => ==(2020), df)
 # Dicionário PIB por estado
 pib_dict = Dict{String, Float64}()
 for row in eachrow(df_2020)
-    pib_dict[row.uf] = row.valor
+    pib_dict[row.uf] = row.valor * 1_000  # Convertendo de mil R$ para R$
 end
 
 # 2. Carregar geometria dos estados
@@ -163,8 +163,14 @@ Colorbar(fig[1, 2],
 # 8. Exibição dos top estados
 df_top = sort(df_2020, :valor, rev=true)
 println("\nTop 10 maiores PIBs estaduais em 2020:")
+
 for (i, row) in enumerate(eachrow(df_top[1:10, :]))
-    println("$i. $(row.uf): R\$ $(round(row.valor/1e9, digits=2)) bilhões")
+    valor_real = row.valor * 1_000  # Convertendo de mil R$ para R$
+    if valor_real >= 1e12
+        println("$i. $(row.uf): R\$ $(round(valor_real / 1e12, digits=2)) trilhões")
+    else
+        println("$i. $(row.uf): R\$ $(round(valor_real / 1e9, digits=2)) bilhões")
+    end
 end
 
 fig
